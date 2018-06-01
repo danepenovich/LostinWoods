@@ -1,0 +1,28 @@
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.deps.json
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.json
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.dev.json
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.AssemblyInfo.cs
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+C:\Users\Dane\Desktop\DojoAssignments\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.deps.json
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.json
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.dev.json
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.AssemblyInfo.cs
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Desktop\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.AssemblyInfoInputs.cache
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.deps.json
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.json
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.runtimeconfig.dev.json
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\bin\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.csproj.CoreCompileInputs.cache
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.AssemblyInfoInputs.cache
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.AssemblyInfo.cs
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.dll
+D:\Code Projects\Dojo\Projects\C#\LostInWoodsDemo\obj\Debug\netcoreapp1.1\LostInWoodsDemo.pdb
